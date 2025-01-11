@@ -1,4 +1,4 @@
-# Develop-Rag-model-using-Langcahin
+# Develop-Rag-model-using-Langchain
 
 Steps:
 
